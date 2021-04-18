@@ -111,6 +111,7 @@ TCP的窗口分为发送窗口和接受窗口，发送窗口的大小由接受�
 
 
 **三次握手**
+
 ![](https://gitee.com/coderth/blogimage/raw/master/img/20210418214911.png)
 三次握手(Three-way Handshake)，是指建立一个 TCP 连接时，需要客户端和服务器总共发送3个包。
 
