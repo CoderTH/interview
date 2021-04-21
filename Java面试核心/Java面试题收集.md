@@ -21,3 +21,7 @@
 ### 5、举例什么地方用到了反射机制？
 * JDBC中，利用反射动态加载了数据库驱动`Class.forName();`
 * Spring框架中的注入属性，调用方法
+
+## 二、JVM
+### 1、JVM内存结构图 / JVM运行时数据区
+![](https://gitee.com/liangsir-67/imagerepo/raw/master/img/20210421202831.png)
